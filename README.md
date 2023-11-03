@@ -6,4 +6,4 @@ npm install
 npm run dev
 
 
-# todo: add project detail here
+# todo: add project detail here .
