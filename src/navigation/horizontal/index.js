@@ -13,7 +13,7 @@ const navigation = () => [
     path: '/acl',
     action: 'read',
     subject: 'acl-page',
-    title: 'Access Control',
+    title: 'Rules',
     icon: 'mdi:shield-outline',
   }
 ]
